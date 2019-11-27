@@ -1,5 +1,5 @@
 body {
-    background-color:    wheat;
+    background-color:    #bac6d2;
 }
 em{
     color: brown;
@@ -9,4 +9,7 @@ h1 ,h3 {
 }
 .Neighbors{
     font-family: sans-serif; color: red ;
+}
+dt{
+    color: #A4A400;
 }
