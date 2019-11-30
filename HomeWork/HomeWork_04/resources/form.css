@@ -1,0 +1,64 @@
+.header p{
+    font-size:20px;
+     margin: 0px;
+    padding: 0px;
+
+}
+fieldset{
+    border: 2px solid gray;
+    border-radius: 12px;
+    background-color: #bac6d2;
+    font-weight:bold ;
+    font-size: large;
+      width: 40%;
+    margin: auto 0px;
+
+}
+legend{
+    border: 1px solid gray;
+    background-color: white;
+    font-weight: normal;
+}
+.left{
+    float: left;
+    margin: 0 1%  0;
+}
+.right{
+    float: right;
+    margin-right:15%;
+}
+
+.container{
+
+}
+.small{
+    width: 15%;
+}
+.min ,.max{
+    color: rgba(0,0,0,0.5);
+}
+.min:hover,.max:hover{
+     color: black;
+}
+.footer input{
+    background-color: #FFAAAA;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+.footer {
+    font-size: 20px;
+}
+.footer-small{
+    font-size: 15px;
+}
+span{
+    color: red;
+    font-weight: normal;
+}
+.footer-back span {
+ float: right;
+    position: absolute;
+    padding: 5px;
+    font-size: 15px;
+}
